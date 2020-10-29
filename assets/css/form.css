@@ -33,17 +33,17 @@ fieldset#sexo {
 }
 
 fieldset#usuario {
-    background: url(/Site-HTML-CSS/assets/img/icone-contato.png) no-repeat 95% 95%;
+    background: url(../img/icone-contato.png) no-repeat 95% 95%;
 }
 
 fieldset#endereco {
-    background: url(/Site-HTML-CSS/assets/img/icone-endereco.png) no-repeat 95% 95%;
+    background: url(../img/icone-endereco.png) no-repeat 95% 95%;
 }
 
 fieldset#mensagem {
-    background: url(/Site-HTML-CSS/assets/img/icone-mensagem.png) no-repeat 95% 95%;
+    background: url(../img/icone-mensagem.png) no-repeat 95% 95%;
 }
 
 fieldset#pedido {
-    background: url(/Site-HTML-CSS/assets/img/icone-pagamento.png) no-repeat 95% 95%;
+    background: url(../img/icone-pagamento.png) no-repeat 95% 95%;
 }
