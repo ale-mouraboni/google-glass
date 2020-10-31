@@ -14,3 +14,7 @@ iframe#frame-spec {
 iframe#frame-spec::-webkit-scrollbar {
     display: none;
 }
+
+.line {
+    outline: none;
+}
