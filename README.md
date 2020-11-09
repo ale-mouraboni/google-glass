@@ -1,6 +1,6 @@
 # html-css-site
 
-Site feito em HTML e CSS.
+Site feito em HTML5 e CSS3.
 
 Site feito com base no curso de HTML do Curso em Vídeo.
 
