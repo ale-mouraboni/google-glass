@@ -1,8 +1,6 @@
 <h1 align="center">Google Glass</h1>
 
-  <p align="center">
-<img src="https://github.com/ale-mouraboni/html-css-site/blob/main/assets/readme/site-html-css.gif">
-  </p>
+<img src="https://github.com/ale-mouraboni/html-css-site/blob/main/assets/readme/index.gif">
 
 <p align="center">Site feito com base no curso de <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o">HTML5 do Curso em Vídeo.</a></p>
 </br>
