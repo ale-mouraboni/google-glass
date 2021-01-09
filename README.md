@@ -1,4 +1,4 @@
-# <center>Google Glass</center>
+<h1 align="center">Google Glass</h1
 <p align="center">
   <img src="assets/readme/index.gif" height="300px" width="395px">
   <img src="assets/readme/especificacoes.gif" height="300px" width="395px">
