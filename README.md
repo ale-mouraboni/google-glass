@@ -1,9 +1,9 @@
 # <center>Google Glass</center>
 <p align="center">
-  <img src="assets/readme/index.gif" height="150px" width="189px">
-  <img src="assets/readme/especificacoes.gif" height="150px" width="189px">
-  <img src="assets/readme/fotos.gif" height="150px" width="189px">
-  <img src="assets/readme/multimidia.gif"height="150px" width="189px">
+  <img src="assets/readme/index.gif" height="300px" width="395px">
+  <img src="assets/readme/especificacoes.gif" height="300px" width="395px">
+  <img src="assets/readme/fotos.gif" height="300px" width="395px">
+  <img src="assets/readme/multimidia.gif"height="300px" width="395px">
   <img src="assets/readme/form.gif">
 </p>
 
