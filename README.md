@@ -33,7 +33,7 @@ $ git clone https://github.com/ale-mouraboni/html-css-site.git
 #2 - Abra o index.html
 ```
 
-<h2 id="about">:book: About</h2>
+<h2 id="about">:heavy_check_mark: About</h2>
 <p>Um site bem simples desenvolvido com HTML5, CSS3 e uma pitada de JavaScript. Esse projeto foi desenvolvido com base no curso de HTML5 do Curso em Vídeo.
 <h4>Responsive?</h4>
 [ ] Yes  [x] No
