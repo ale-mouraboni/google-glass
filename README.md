@@ -28,7 +28,7 @@
 
 ```
 #1 - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/html-css-site.git
+$ git clone https://github.com/ale-mouraboni/google-glass.git
 
 #2 - Abra o index.html
 ```
