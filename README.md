@@ -34,7 +34,9 @@ $ git clone https://github.com/ale-mouraboni/google-glass.git
 ```
 
 <h2 id="about">:heavy_check_mark: About</h2>
-<p>Um site bem simples desenvolvido com HTML5, CSS3 e uma pitada de JavaScript. Esse projeto foi desenvolvido com base no curso de HTML5 do Curso em Vídeo.
+<p>Um site bem simples desenvolvido com HTML5, CSS3 e uma pitada de JavaScript. 
+</br>
+Esse projeto foi desenvolvido com base no curso de HTML5 do Curso em Vídeo.
 <h4>Responsive?</h4>
 [ ] Yes  [x] No
 </p>
