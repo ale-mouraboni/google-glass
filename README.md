@@ -1,40 +1,42 @@
-# Demo
-![Demo](readme/demo.png)
-![Demo](readme/demo-2.png)
-![Demo](readme/demo-3.png)
-![Demo](readme/demo-4.png)
-![Demo](readme/demo-5.png)
+![Demo](readme/demo.gif)
 
-## Menu
-* [Tecnologias](#Tecnologias)
-* [Como Utilizar](#Como-Utilizar)
-* [About](#About)
-* [Link do Curso](#Link-do-Curso)
-* [License](#License)
+---
 
-## Tecnologias
-Projeto desenvolvido com as seguintes tecnologias:
+<div style="text-align: justify">
+
+### Descrição
+Site antigo da Google Glass desenvolvido em HTML, CSS e um pouco de JavaScript, esse projeto foi desenvolvido durante o curso de HTML e CSS da plataforma Curso em Vídeo. Esse foi o meu primeiro projeto desenvolvido durante a minha carreira como desenvolvedor.
+
+</div>
+
+---
+
+#### Link do Curso:
+
+* [Curso em Vídeo - HTML e CSS](https://www.cursoemvideo.com/course/html5/)
+
+---
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * JavaScript
 
-## Como Utilizar
-```
-1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/google-glass.git
+---
 
-2. - Abra o index.html
-```
+Para ver o projeto você pode clonar ele com o seguinte comando:    
 
-## About
-Website antigo da Google Glass desenvolvido em HTML, CSS e um pouco de JavaScript.  
-Esse projeto foi desenvolvido durante o curso de HTML e CSS - Curso em Vídeo, esse foi o primeiro projeto que desenvolvi da minha carreira como desenvolvedor web.  
-Projeto desenvolvido durante o curso de **HTML e CSS - Curso em Vídeo**.
+```sh
+git clone https://github.com/ale-mouraboni/google-glass.git
+```  
+  
+Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+  
+[Baixar Projeto](https://github.com/ale-mouraboni/hdc-agency/archive/refs/heads/main.zip)
 
-### Link do Curso:
+---
 
-* [HTML e CSS - Curso em Vídeo](https://www.cursoemvideo.com/course/html5/)
-
-## License
+### License
 This project is under the MIT license. See the [LICENSE] for more information.
 
+---
