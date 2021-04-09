@@ -15,14 +15,10 @@ Site antigo da Google Glass desenvolvido em HTML, CSS e um pouco de JavaScript, 
 
 * [Curso em Vídeo - HTML e CSS](https://www.cursoemvideo.com/course/html5/)
 
----
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * JavaScript
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
