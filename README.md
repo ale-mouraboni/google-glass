@@ -9,8 +9,6 @@ Site antigo da Google Glass desenvolvido em HTML, CSS e um pouco de JavaScript, 
 
 </div>
 
----
-
 #### Link do Curso:
 
 * [Curso em Vídeo - HTML e CSS](https://www.cursoemvideo.com/course/html5/)
