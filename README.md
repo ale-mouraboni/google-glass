@@ -1,36 +1,50 @@
-![Demo](readme/demo.gif)
+<h1 align="center">Google Glass</h1>
+<p align="center">Old Google Glass website developed in HTML, CSS and some JavaScript. This project was developed during the HTML and CSS course of the <strong>Curso em Vídeo</strong> platform.
+</br>
+<a href="https://www.cursoemvideo.com">Access Platform</a>
+</p>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ale-mouraboni/google-glass">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ale-mouraboni/google-glass">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ale-mouraboni/google-glass">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/ale-mouraboni/google-glass">
+</p>
+
+<p align="center">
+  <a href="#rocket-about">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+![Demo](github/demo.gif)
 
 ---
 
-<div style="text-align: justify">
+### :rocket: About
+Project information
 
-### Descrição
-Site antigo da Google Glass desenvolvido em HTML, CSS e um pouco de JavaScript, esse projeto foi desenvolvido durante o curso de HTML e CSS da plataforma Curso em Vídeo. Esse foi o meu primeiro projeto desenvolvido durante a minha carreira como desenvolvedor.
-
-</div>
-
-#### Link do Curso:
-
-* [Curso em Vídeo - HTML e CSS](https://www.cursoemvideo.com/course/html5/)
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+:heavy_check_mark: Project developed with the following technologies:
 * HTML5
 * CSS3
 * JavaScript
 
-Para ver o projeto você pode clonar ele com o seguinte comando:    
+:heavy_check_mark: Clone the project with the command:
 
 ```sh
 git clone https://github.com/ale-mouraboni/google-glass.git
 ```  
   
-Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+:heavy_check_mark: Or download the .zip file:  
   
-* [Baixar Projeto](https://github.com/ale-mouraboni/hdc-agency/archive/refs/heads/main.zip)
+* [Download Project](https://github.com/ale-mouraboni/google-glass/archive/refs/heads/main.zip)
 
 ---
 
-### License
+### :memo: License
 This project is under the MIT license. See the [LICENSE] for more information.
 
 ---
